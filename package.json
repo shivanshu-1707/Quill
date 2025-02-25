@@ -9,11 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@kinde-oss/kinde-auth-nextjs": "^2.5.1",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@tailwindcss/typography": "^0.5.16",
+    "@tanstack/react-query": "^5.66.9",
+    "@trpc/client": "11.0.0-rc.808",
+    "@trpc/next": "11.0.0-rc.808",
+    "@trpc/react-query": "11.0.0-rc.808",
+    "@trpc/server": "11.0.0-rc.808",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "lucide-react": "^0.475.0",
     "next": "15.1.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwind-merge": "^3.0.2"
+    "tailwind-merge": "^3.0.2",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.24.2"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
